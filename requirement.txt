@@ -7,3 +7,7 @@ tensorflow
 pytorch
 plotly
 others
+nltk
+scikit-learn
+linearmodels
+logisticregression
